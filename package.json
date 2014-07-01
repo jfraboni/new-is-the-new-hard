@@ -1,0 +1,9 @@
+{
+	"name": "new-is-the-new-hard",
+	"version": "0.0.1",
+	"description": "An app to replace all occurrences of hard with new",
+	"main": "new-is-the-new-hard",
+	"engines": {
+		"node": "*"
+	}
+}
